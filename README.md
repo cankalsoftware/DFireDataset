@@ -52,6 +52,7 @@ Access the D-Fire dataset, including images, annotations, and pre-split training
 
 * [D-Fire dataset (only images and labels)](https://1drv.ms/u/c/c0bd25b6b048b01d/EbLgD7bES4FDvUN37Grxn8QBF5gIBBc7YV2qklF08GCiBw).
 * [Training, validation and test sets](https://1drv.ms/f/c/c0bd25b6b048b01d/Ema8FFze8mFIlM1Hn81BUUgBE3vnnmK4SQxybS-nHRt2pA?e=6rk0aN).
+* [Kaggle version ready to use](https://www.kaggle.com/datasets/sayedgamal99/smoke-fire-detection-yolo).
 * [Some surveillance videos](https://1drv.ms/f/c/c0bd25b6b048b01d/EhT2Jy6L-YlGvZv-gXH2SnYBENQsnUW96LpZtv_6PngjYQ). 
 * [Some deep learning models trained with the D-Fire dataset](https://github.com/pedbrgs/Fire-Detection).
 * For more surveillance videos, request your registration on our environmental monitoring platform ["Apaga o Fogo!" (Put out the Fire!)](https://apagaofogo.eco.br/).
